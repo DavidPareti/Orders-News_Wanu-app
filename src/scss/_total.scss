@@ -1,0 +1,18 @@
+.total{
+  display: flex;
+  margin: 0 15px;
+  border-bottom: 1px solid $dark-blue;
+  justify-content: space-between;
+
+  .p_total{
+    font-family: comfortaa;
+    color: $dark-blue;
+    width: 50%;
+    text-align: start;
+  }
+
+  .price_total{
+    font-family: comfortaa;
+    color: $dark-blue;
+  }
+}

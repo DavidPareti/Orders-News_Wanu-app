@@ -1,0 +1,57 @@
+.buttoncs{
+  display: flex;
+  justify-content: center;
+  font-family: $primaryFont;
+}
+
+.buttons{
+    width: 41vw;
+    position: relative;
+    height: 8vh;
+    margin-right: 15px;
+    display: flex;
+    top: -25px;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-size: 20px;
+    background-color: $bordeaux;
+    &.is-pressed{
+        transform: scale(0.9);
+        transform-origin: center;
+        @include animationPress();
+    }
+    &.is-relased{
+        @include animationRelased();
+    }
+}
+
+.buttonc{
+    width: 41vw;
+    margin-left: 15px;
+    position: relative;
+    height: 8vh;
+    top: -25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 80px;
+    font-size: 20px;
+    background-color: $bordeaux;
+    &.is-pressed{
+        transform: scale(0.9);
+        transform-origin: center;
+        @include animationPress();
+    }
+    &.is-relased{
+        @include animationRelased();
+    }
+}
