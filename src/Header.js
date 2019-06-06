@@ -12,7 +12,6 @@ class Header extends React.Component{
             <a href="#">
                 <Logo className="logo"/>
             </a>
-            <h3>Tavolo 1</h3>
             <ImageLogo className="imageLogo"/>
         </div>
         );

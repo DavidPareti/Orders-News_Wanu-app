@@ -129,14 +129,6 @@
     box-sizing: border-box;
     padding: 18px 10px 18px 20px; }
 
-.buttonadd {
-  width: 0;
-  height: 0;
-  border-left: 50px solid transparent;
-  border-right: 50px solid transparent;
-  border-bottom: 86px solid black;
-  transform: rotate(-90deg); }
-
 .buttoncs {
   display: flex;
   justify-content: center;
@@ -239,100 +231,6 @@
     -o-transition-timing-function: cubic-bezier(0.995, 0, 0, 1.65);
     transition-timing-function: cubic-bezier(0.995, 0, 0, 1.65);
     /* custom */ }
-
-.buttonMenuN {
-  background: black;
-  height: 24vh;
-  display: flex;
-  justify-content: flex-end;
-  color: white;
-  border-radius: 20px;
-  font-size: 15px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-bottom: 10px;
-  padding-right: 23px;
-  cursor: pointer; }
-
-.buttonMenuSG {
-  background: black;
-  height: 24vh;
-  display: flex;
-  justify-content: flex-end;
-  color: white;
-  border-top-left-radius: 20px;
-  border-top-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 80px;
-  font-size: 15px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-bottom: 10px;
-  padding-right: 23px;
-  cursor: pointer; }
-
-.buttonMenuSS {
-  background: #5a90b0;
-  background: -moz-linear-gradient(left, #5a90b0 0%, #36617a 100%);
-  background: -webkit-gradient(left top, right top, color-stop(0%, #5a90b0), color-stop(100%, #36617a));
-  background: -webkit-linear-gradient(left, #5a90b0 0%, #36617a 100%);
-  background: -o-linear-gradient(left, #5a90b0 0%, #36617a 100%);
-  background: -ms-linear-gradient(left, #5a90b0 0%, #36617a 100%);
-  background: linear-gradient(to right, #5a90b0 0%, #36617a 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5a90b0', endColorstr='#36617a', GradientType=1 );
-  overflow: hidden;
-  height: 24vh;
-  display: flex;
-  justify-content: flex-end;
-  color: white;
-  border-top-left-radius: 146px;
-  border-top-right-radius: 20px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
-  font-size: 25px;
-  margin: 10px 10px 0 10px;
-  padding-right: 23px;
-  font-family: 'Comfortaa', sans-serif; }
-  .buttonMenuSS.is-pressed {
-    transform: scale(0.9);
-    transform-origin: center;
-    -webkit-transition: all 500ms cubic-bezier(0, 0.645, 0, 1);
-    /* older webkit */
-    -webkit-transition: all 500ms cubic-bezier(0, 0.645, 0, 1.32);
-    -moz-transition: all 500ms cubic-bezier(0, 0.645, 0, 1.32);
-    -o-transition: all 500ms cubic-bezier(0, 0.645, 0, 1.32);
-    transition: all 500ms cubic-bezier(0, 0.645, 0, 1.32);
-    /* custom */
-    -webkit-transition-timing-function: cubic-bezier(0, 0.645, 0, 1);
-    /* older webkit */
-    -webkit-transition-timing-function: cubic-bezier(0, 0.645, 0, 1.32);
-    -moz-transition-timing-function: cubic-bezier(0, 0.645, 0, 1.32);
-    -o-transition-timing-function: cubic-bezier(0, 0.645, 0, 1.32);
-    transition-timing-function: cubic-bezier(0, 0.645, 0, 1.32);
-    /* custom */ }
-  .buttonMenuSS.is-relased {
-    -webkit-transition: all 500ms cubic-bezier(0.995, 0, 0, 1);
-    /* older webkit */
-    -webkit-transition: all 500ms cubic-bezier(0.995, 0, 0, 1.65);
-    -moz-transition: all 500ms cubic-bezier(0.995, 0, 0, 1.65);
-    -o-transition: all 500ms cubic-bezier(0.995, 0, 0, 1.65);
-    transition: all 500ms cubic-bezier(0.995, 0, 0, 1.65);
-    /* custom */
-    -webkit-transition-timing-function: cubic-bezier(0.995, 0, 0, 1);
-    /* older webkit */
-    -webkit-transition-timing-function: cubic-bezier(0.995, 0, 0, 1.65);
-    -moz-transition-timing-function: cubic-bezier(0.995, 0, 0, 1.65);
-    -o-transition-timing-function: cubic-bezier(0.995, 0, 0, 1.65);
-    transition-timing-function: cubic-bezier(0.995, 0, 0, 1.65);
-    /* custom */ }
-  .buttonMenuSS h2 {
-    margin: 19px 0;
-    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
-    z-index: 3; }
-  .buttonMenuSS img {
-    width: 20px;
-    height: auto;
-    z-index: 2; }
 
 .advise {
   display: flex;
