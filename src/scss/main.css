@@ -266,17 +266,18 @@
     text-align: start;
     width: 50%; }
   .ordersList .counter_container {
-    display: flex;
-    width: 25%; }
+    display: flex; }
   .ordersList .button_orders {
     font-size: 25px;
     margin-bottom: 3px; }
   .ordersList .counter {
-    padding: 0 5px; }
+    padding: 0 2px;
+    width: 25px; }
   .ordersList .price_orders {
     font-family: comfortaa;
     color: #263642;
-    width: 25%; }
+    text-align: right;
+    width: 78px; }
 
 .lastOrdersList {
   margin-bottom: 48vh; }

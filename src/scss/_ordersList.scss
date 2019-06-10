@@ -14,7 +14,6 @@
 
   .counter_container{
     display: flex;
-    width: 25%;
   }
 
   .button_orders{
@@ -23,13 +22,15 @@
   }
 
   .counter{
-    padding: 0 5px;
+    padding: 0 2px;
+    width: 25px;
   }
 
   .price_orders{
     font-family: comfortaa;
     color: $dark-blue;
-    width: 25%;
+    text-align: right;
+    width: 78px;
   }
 }
 
