@@ -1,7 +1,7 @@
 import React from 'react';
 import OrdersList from '../components/OrdersList';
 import Textarea from '../components/Textarea';
-import Total from '../components/total';
+import Total from '../components/Total';
 class Orders extends React.Component {
   constructor(props){
     super(props);
