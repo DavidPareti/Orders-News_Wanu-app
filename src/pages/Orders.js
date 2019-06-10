@@ -10,7 +10,7 @@ class Orders extends React.Component {
 
   render(){
     let tot=this.state.total
-    for(let i= 0;i<5;i++){
+    for(let i= 0;i<6;i++){
       tot += 6;
     }
     return(
