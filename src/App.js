@@ -5,14 +5,12 @@ import Footer from './Footer';
 import './scss/main.css';
 import Orders from './pages/Orders';
 import News from './pages/News';
-import Advise from './Advise';
-
 
 function App() {
   return ( <
     div className = "App" >
     <Header / >
-    <Orders / >
+    <News / >
     <Footer / >
     </div>
   );

@@ -1,5 +1,5 @@
 import React from 'react'
-import { ReactComponent as Marker } from './img/marker.svg';
+import { ReactComponent as Marker } from '../img/marker.svg';
 
 
 class Advise extends React.Component {

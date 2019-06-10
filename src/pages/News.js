@@ -1,5 +1,5 @@
 import React from 'react';
-import Advise from '../Advise';
+import Advise from '../components/Advise';
 class News extends React.Component {
   render(){
     return(
