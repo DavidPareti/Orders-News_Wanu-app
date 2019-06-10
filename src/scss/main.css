@@ -263,9 +263,11 @@
     font-family: comfortaa;
     color: #263642;
     width: 50%;
-    text-align: start; }
+    text-align: start;
+    width: 50%; }
   .ordersList .counter_container {
-    display: flex; }
+    display: flex;
+    width: 25%; }
   .ordersList .button_orders {
     font-size: 25px;
     margin-bottom: 3px; }
@@ -273,7 +275,8 @@
     padding: 0 5px; }
   .ordersList .price_orders {
     font-family: comfortaa;
-    color: #263642; }
+    color: #263642;
+    width: 25%; }
 
 .lastOrdersList {
   margin-bottom: 48vh; }

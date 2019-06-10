@@ -18,9 +18,9 @@ class Orders extends React.Component {
         <div className="lastOrdersList">
         <OrdersList ordersList="ordersList" p_orders="COSMOPOLITAN" counter="0" price_orders="6.00 €" ></OrdersList>
         <OrdersList ordersList="ordersList" p_orders="MANHATTAN" counter="0" price_orders="6.00 €" ></OrdersList>
-        <OrdersList ordersList="ordersList" p_orders="BLOODY MARY" counter="0" price_orders="6.00 €" ></OrdersList>
+        <OrdersList ordersList="ordersList" p_orders="BLOODY MARY" counter="0" price_orders="116.00 €" ></OrdersList>
         <OrdersList ordersList="ordersList" p_orders="CUBA LIBRE" counter="0" price_orders="6.00 €" ></OrdersList>
-        <OrdersList ordersList="ordersList" p_orders="MOJITO" counter="0" price_orders="6.00 €" ></OrdersList>
+        <OrdersList ordersList="ordersList" p_orders="MOJITO" counter="0" price_orders="16.00 €" ></OrdersList>
         <OrdersList ordersList="ordersList" p_orders="NEGRONI" counter="0" price_orders="6.00 €" ></OrdersList>
         <Total total="total" p_total="TOTALE" price_total={tot}></Total>
         </div>

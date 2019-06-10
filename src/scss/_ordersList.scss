@@ -9,10 +9,12 @@
     color: $dark-blue;
     width: 50%;
     text-align: start;
+    width: 50%;
   }
 
   .counter_container{
     display: flex;
+    width: 25%;
   }
 
   .button_orders{
@@ -27,6 +29,7 @@
   .price_orders{
     font-family: comfortaa;
     color: $dark-blue;
+    width: 25%;
   }
 }
 
