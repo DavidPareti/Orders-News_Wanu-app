@@ -1,11 +1,7 @@
 import React from 'react'
 import { ReactComponent as Marker } from '../img/marker.svg';
-
-
 class Advise extends React.Component {
-  constructor(props){
-    super(props)
-  }
+
   render() {
     return (
 
