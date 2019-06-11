@@ -263,8 +263,7 @@
     font-family: comfortaa;
     color: #263642;
     width: 50%;
-    text-align: start;
-    width: 50%; }
+    text-align: start; }
   .ordersList .counter_container {
     display: flex; }
   .ordersList .button_orders {
