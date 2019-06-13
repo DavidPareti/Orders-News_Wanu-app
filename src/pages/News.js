@@ -12,7 +12,7 @@ class NewsView extends React.Component {
 
     }
     componentDidMount() {
-     fetch("https://nodeuno.mohole.it/promozionis")
+     fetch("https://server")
        .then(res => res.json())
        .then(
          (result) => {

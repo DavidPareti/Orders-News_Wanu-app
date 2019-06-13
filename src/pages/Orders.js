@@ -14,7 +14,7 @@ class OrdersView extends React.Component {
     };
   }
   componentDidMount() {
-    fetch("https://nodeuno.mohole.it/ordinis?_sort=prodotto:ASC")
+    fetch("https://server")
     .then(res => res.json())
     .then(
       (result) => {

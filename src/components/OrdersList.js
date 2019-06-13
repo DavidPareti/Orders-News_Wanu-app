@@ -27,7 +27,7 @@ class OrdersList extends React.Component {
       quantita: this.state.quantita - 1
     }
     axios.put(
-      'https://nodeuno.mohole.it/ordinis/'+this.state.id_ordine,
+      'https://server'+this.state.id_ordine,
       bodyParameters
     ).then((response) => {
       console.log(response);
@@ -69,7 +69,7 @@ class OrdersList extends React.Component {
     }
 
     axios.put(
-      'https://nodeuno.mohole.it/ordinis/'+this.state.id_ordine,
+      'https://server'+this.state.id_ordine,
       bodyParameters
     ).then((response) => {
       console.log(response);
