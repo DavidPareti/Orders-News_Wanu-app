@@ -1,33 +1,29 @@
 .advise{
+  padding: 10px 0 10px 0;
   display: flex;
   margin: 0 15px;
   border-bottom: 1px solid $dark-blue;
-
   .marker{
   width: 20px;
-  align-self: center;
+  align-self: start;
+  margin: 12px 0 0 0;
   }
-
   .title_p_container{
     display: flex;
     flex-direction: column;
     text-align: start;
-
-
     .title_advise{
       align-self: flex-start;
-      font-family: comfortaa;
-      margin: 10px 10px 0;
+      font-family: $primaryFont;
+      margin: 10px 0 10px 20px;
       color: $dark-blue;
     }
-
     .p_advise{
       align-self: flex-start;
-      font-family: comfortaa;
-      margin: 0 10px 10px 10px;
-      color: $dark-blue;
+      font-family: $primaryFont;
+      margin: 0 0 10px 20px;
+      line-height: 20px;
+      color: $medium-blue;
     }
-
   }
-
 }
