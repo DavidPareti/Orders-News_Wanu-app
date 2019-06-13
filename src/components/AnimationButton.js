@@ -16,19 +16,21 @@ class AnimationButton extends React.Component {
   }
   render() {
     let classes = this.props.styleClass;
-    if (this.state.press =='true'){
+    if (this.state.press ==='true'){
       classes += ' is-pressed';
-    }else if (this.state.press == 'false'){
+    }else if (this.state.press === 'false'){
       classes += ' is-relased';
     }else {
       classes += '';
     }
-  return(
-      <a
+    return(
+      <a 
+        href={this.props.href}
         className={classes}
         onTouchStart={this.ontouchstart}
         onTouchEnd={this.ontouchend}
       >
+        <img src={this.props.images} alt="bottone"></img>
         {this.props.children}
       </a>
     );
