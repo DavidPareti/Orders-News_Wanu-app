@@ -3,36 +3,30 @@
   margin: 0 15px;
   border-bottom: 1px solid $dark-blue;
   justify-content: space-between;
-
   .p_orders{
     font-family: comfortaa;
     color: $dark-blue;
     width: 50%;
     text-align: start;
   }
-
   .counter_container{
     display: flex;
   }
-
   .button_orders{
    font-size: 25px;
    margin-bottom: 3px;
   }
-
   .counter{
-    padding: 0 2px;
+    padding: 0 5px;
     width: 25px;
   }
-
   .price_orders{
     font-family: comfortaa;
     color: $dark-blue;
-    text-align: right;
     width: 78px;
+    text-align: right;
   }
 }
-
 .lastOrdersList{
   margin-bottom: 48vh;
 }
