@@ -1,7 +1,6 @@
 import React from 'react'
 import ButtonCS from './ButtonCS'
 class Textarea extends React.Component {
-
   render() {
     return (
       <div className={this.props.textarea_container}>
