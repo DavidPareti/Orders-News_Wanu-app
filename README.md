@@ -3,5 +3,5 @@ Wanu is a PWA created for a school project for the Mohole school, I took care of
 ## Orders
 
 ![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Orders1.png "Orders")
-![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Orders2.png "Orders")
+![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/News.png "Orders")
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
