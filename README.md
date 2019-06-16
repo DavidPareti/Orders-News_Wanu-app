@@ -7,7 +7,8 @@ For the creation of the orders section I made 3 components:
 * Total.js
 * Textarea.js
 
-subsequently imported into Orders.js.
+imported into Orders.js.
+
 
 
 
