@@ -16,5 +16,6 @@ Below I put 2 example screenshot.
 
 ![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Orders1.png "Orders")
 ![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Orders2.png "Orders")
+## News
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
