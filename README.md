@@ -22,5 +22,6 @@ For the creation of the news section I only made one component, namely Advise.js
 
 Below I put an example screenshot.
 
+![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/News.png "News")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
