@@ -4,7 +4,7 @@ Wanu is a progressive web app that I, and three of my classmates, have created f
 Find the complete app here: https://scuola.mohole.it
 ## Orders (ordini)
 
-For the creation of the orders section I have created four components:
+For the creation of the Orders section I have developped four components:
 * OrdersList.js
 * Total.js
 * Textarea.js
@@ -18,7 +18,7 @@ Below I put two example screenshot.
 ![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Orders2.png "Orders")
 ## News
 
-For the creation of the News section I only have created one component, namely Advise.js that I have imported in News.js.
+For the creation of the News section I only have developped one component, namely Advise.js that I have imported in News.js.
 
 Below I put an example screenshot.
 
