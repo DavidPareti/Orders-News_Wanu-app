@@ -8,7 +8,7 @@ For the creation of the orders section I made 4 components:
 * Textarea.js
 * ButtonCS.js
 
-I have imported the first three (OrdersList.js, Total.js and Textarea.js) into into Orders.js and the last one (ButtonCS.js) in Textarea.js.
+I have imported the first three (OrdersList.js, Total.js and Textarea.js) into Orders.js and the last one (ButtonCS.js) in Textarea.js.
 
 ![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Orders1.png "Orders")
 ![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Orders2.png "Orders")
