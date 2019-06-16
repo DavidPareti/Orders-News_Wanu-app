@@ -1,5 +1,5 @@
 # My Wanu app components
-Wanu is a progressive web app that I create for a Mohole school project, I take care of the orders (ordini) section and the news section.
+Wanu is a progressive web app that I and three of my classmates create for a Mohole school project, I take care of the orders (ordini) section and the news section.
 
 Find the complete app here: https://scuola.mohole.it
 ## Orders (ordini)
