@@ -1,5 +1,7 @@
 # My Wanu app components
-Wanu is a PWA created for a school project for the Mohole school, I took care of the orders (ordini) section and the news section
+Wanu is a PWA created for a school project for the Mohole school, I took care of the orders (ordini) section and the news section.
+
+Find the complete app here:(https://scuola.mohole.it/)
 ## Orders (ordini)
 
 For the creation of the orders section I made 4 components:
