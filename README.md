@@ -18,6 +18,9 @@ Below I put two example screenshot.
 ![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Orders2.png "Orders")
 ## News
 
-For the creation of the news section I only made one component
+For the creation of the news section I only made one component, namely Advise.js imported in News.js.
+
+Below I put an example screenshot.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
