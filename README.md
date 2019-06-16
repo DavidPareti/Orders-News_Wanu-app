@@ -3,9 +3,9 @@ Wanu is a PWA created for a school project for the Mohole school, I took care of
 ## Orders (ordini)
 
 For the creation of the orders section I made 3 components:
-..* OrdersList.js
-..* Total.js
-..* Textarea.js
+* OrdersList.js
+* Total.js
+* Textarea.js
 subsequently imported into Orders.js.
 
 
