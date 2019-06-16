@@ -1,5 +1,5 @@
 # My Wanu app components
-Wanu is a progressive web app that I and three of my classmates create for a Mohole school project, I take care of the orders (ordini) section and the news section.
+Wanu is a progressive web app that I, and three of my classmates, create for a Mohole school project, I take care of the orders (ordini) section and the news section.
 
 Find the complete app here: https://scuola.mohole.it
 ## Orders (ordini)
@@ -10,7 +10,7 @@ For the creation of the orders section I made four components:
 * Textarea.js
 * ButtonCS.js
 
-I have imported the first three (OrdersList.js, Total.js and Textarea.js) into Orders.js and the last one (ButtonCS.js) in Textarea.js.
+I import the first three (OrdersList.js, Total.js and Textarea.js) into Orders.js and the last one (ButtonCS.js) in Textarea.js.
 
 Below I put two example screenshot.
 
