@@ -4,7 +4,7 @@ Wanu is a progressive web app that I, and three of my classmates, create for a M
 Find the complete app here: https://scuola.mohole.it
 ## Orders (ordini)
 
-For the creation of the orders section I made four components:
+I create four components for the creation of the orders section:
 * OrdersList.js
 * Total.js
 * Textarea.js
