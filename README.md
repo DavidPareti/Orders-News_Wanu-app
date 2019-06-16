@@ -18,7 +18,7 @@ Below I put two example screenshot.
 ![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Orders2.png "Orders")
 ## News
 
-For the creation of the news section I only made one component, namely Advise.js imported in News.js.
+For the creation of the news section I create only one component, namely Advise.js that io import into News.js.
 
 Below I put an example screenshot.
 
