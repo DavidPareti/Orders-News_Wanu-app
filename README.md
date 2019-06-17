@@ -1,9 +1,9 @@
 # My Wanu app components
 Wanu is a progressive web app that I, and three of my classmates, have created for a Mohole school project.
 
-Wanu is an app that replaces the menù and allows you to order and pay directly from the table without having to wait for the waiter to arrive.
+Wanu is an app that replaces the menu and allows you to order and pay directly from the app.
 
-I have took care of the Orders (ordini) section and the News section.
+I have took care of the Orders (ordini) section and the News section, for the realization of the components I have used react, html and sass.
 
 Find the complete app here: https://scuola.mohole.it
 ## Orders (ordini)
