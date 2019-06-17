@@ -29,7 +29,6 @@ class OrdersView extends React.Component {
           tot += parseFloat(ordinis[i].Prezzo) * ordinis[i].quantita;
         }
         this.setState({ordini : ordinis, tot: tot});
-        console.log(ordinis);
 
       },
       (error) => {
@@ -52,7 +51,6 @@ class OrdersView extends React.Component {
       return ordine
     })
 
-    console.log(ordini);
 
     this.setState({
       ordini: ordini,

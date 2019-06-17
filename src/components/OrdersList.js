@@ -30,7 +30,6 @@ class OrdersList extends React.Component {
       'https://server'+this.state.id_ordine,
       bodyParameters
     ).then((response) => {
-      console.log(response);
           this.setState({
               error:false,
               message:"Ordine inviato"
@@ -72,7 +71,6 @@ class OrdersList extends React.Component {
       'https://server'+this.state.id_ordine,
       bodyParameters
     ).then((response) => {
-      console.log(response);
           this.setState({
               error:false,
               message:"Ordine inviato"
