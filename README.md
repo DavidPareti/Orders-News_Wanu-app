@@ -3,7 +3,7 @@ Wanu is a progressive web app that I, and three of my classmates, have created f
 
 Wanu is an app that replaces the menu and allows you to order and pay directly from the app.
 
-I have took care of the Orders section and the News section, for the realization of the components I have used react, html and sass, whereas for the architecture of the app I have used illustrator. The font we have choose is .
+I have took care of the Orders section and the News section, for the realization of the components I have used react, html and sass, whereas for the architecture of the app I have used illustrator. The font we have choose is Comfortaa.
 
 Find the complete app here: https://scuola.mohole.it
 ## Orders
