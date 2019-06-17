@@ -7,7 +7,7 @@ I have took care of the Orders section and the News section, for the realization
 
 The font we have choose is Comfortaa.
 
-Find the complete app here: https://scuola.mohole.it
+Find the complete app here: https://github.com/EntradeO/wanu_app4.0
 ## Orders
 
 For the creation of the Orders section I have developed four components:
