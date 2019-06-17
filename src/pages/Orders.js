@@ -57,7 +57,6 @@ class OrdersView extends React.Component {
       tot: ordini.reduce((tot, ordine)=> parseFloat(ordine.Prezzo) * ordine.quantita + tot, 0)
     });
 
-    console.log(ordini.reduce((tot, ordine)=> parseFloat(ordine.Prezzo) * ordine.quantita + tot, 0));
   }
 
 
