@@ -7,6 +7,10 @@ I have took care of the Orders section and the News section, for the realization
 
 The font we have choose is Comfortaa, whereas for the logo we have choose Variada tf8.
 
+below I put a screenshot of the color palette.
+
+![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Palette.png "Palette")
+
 Find the complete app here: https://github.com/EntradeO/wanu_app4.0
 ## Orders
 
