@@ -5,7 +5,7 @@ Wanu is an app that replaces the menu and allows you to order and pay directly f
 
 I have took care of the Orders section and the News section, for the realization of the components I have used react, html and sass, whereas for the architecture of the app and for the all graphic elements we have used illustrator.
 
-The font we have choose is Comfortaa.
+The font we have choose is Comfortaa, whereas for the logo we have choose Variada tf8.
 
 Find the complete app here: https://github.com/EntradeO/wanu_app4.0
 ## Orders
