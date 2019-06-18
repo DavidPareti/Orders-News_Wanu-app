@@ -9,7 +9,7 @@ The font we have choose is Comfortaa, whereas for the logo we have choose Variad
 
 below I put a screenshot of the color palette.
 
-![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/Palette.png "Palette")
+![alt text](https://github.com/DavidPareti/Orders_Wanu-app/blob/master/src/img/palette.png "Palette")
 
 Find the complete app here: https://github.com/EntradeO/wanu_app4.0
 ## Orders
